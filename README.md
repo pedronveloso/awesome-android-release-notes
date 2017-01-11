@@ -1,6 +1,8 @@
 # Awesome Android Release Notes
+
 Awesome Android Release Notes is a useful directory for Android software developers to keep up-to-date with all the things related with Android. **Contributions are welcome**.
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/pedronveloso)
 
 ###**Note on Update Frequency**: 
 
